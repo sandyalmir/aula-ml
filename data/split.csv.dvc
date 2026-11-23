@@ -1,0 +1,5 @@
+outs:
+- md5: db0e43ec416faf6871f55fe81f71b1ca
+  size: 127
+  hash: md5
+  path: split.csv
